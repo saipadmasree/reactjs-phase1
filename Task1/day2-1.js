@@ -43,10 +43,10 @@ for(let i=0;i<a.length;i++)
 console.log(b);
 
 console.log("1.j->");
-console.log(a[7]);
-console.log(a[8]);
-console.log(a[9]);
-console.log(a[10]);
+for(let i=7;i<11;i++)
+{
+console.log(a[i]);
+}
 
 console.log("1.k->");
 let c=[];
