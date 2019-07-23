@@ -2,23 +2,28 @@ console.log("1.a->");
 let a=['0','1','2','3','4','5','6','7','8','9'];
 console.log(a[5]);
 
+console.log("");
 console.log("1.b->");
 a.push('10','11','12','13','14','15','16','17','18','19','20');
 console.log(a);
 let length=a.length;
 
+console.log("");
 console.log("1.c->");
 a.pop(a[length-1]);
 console.log(a);
 
+console.log("");
 console.log("1.d->");
 a.shift(a[0]);
 console.log(a);
 
+console.log("");
 console.log("1.e->");
 a.unshift('Numbers');
 console.log(a);
 
+console.log("");
 console.log("1.f->");
 let index=a.indexOf('17');
 console.log(index);
@@ -45,7 +50,7 @@ console.log(b);
 console.log("1.j->");
 for(let i=7;i<11;i++)
 {
-console.log(a[i]);
+    console.log(a[i]);
 }
 
 console.log("1.k->");
