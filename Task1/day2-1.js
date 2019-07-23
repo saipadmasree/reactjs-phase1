@@ -42,6 +42,7 @@ for(let i=0;i<a.length;i++)
 }
 console.log(b);
 
+
 console.log("1.j->");
 for(let i=7;i<11;i++)
 {
