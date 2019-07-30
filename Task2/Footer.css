@@ -1,0 +1,37 @@
+.footer-up{
+    margin-top:200px;
+    font-size: 30px;
+    margin-left: 20px;
+
+
+}
+.footer{
+    background-color:dimgray;
+    
+}
+.footer-down{
+  margin-left: 20px;
+  display: flex;
+  
+}
+
+.aff{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.foot{
+  background-color:darkgray;
+  display: flex;
+  justify-content: space-around;
+}
+.follow{
+    text-align: right;
+    padding-right: 20px;
+    margin-top: 200px;
+    margin-bottom: -200px;
+}
+
+.follow-img{
+    height:40px;
+    width: 70px;
+}
